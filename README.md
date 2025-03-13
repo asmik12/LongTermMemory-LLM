@@ -5,6 +5,10 @@
   <a href="https://huggingface.co/datasets/xiaowu0162/longmemeval" ><img src="https://img.shields.io/badge/🤗-Data-green" height="23"></a>
 </p>
 
+
+#### 🚧 Work in Progress 🚧This repository is a fork of the original LongMemEval benchmark. The modifications here are part of my ongoing research into evaluating and improving long-term memory retention in large language models, particularly in multi-session reasoning and temporal consistency. This work aligns with my broader research interests in NLP, model robustness, and adaptive memory mechanisms.
+
+
 🖋 [Di Wu](https://xiaowu0162.github.io/), [Hongwei Wang](https://hongweiw.net/), [Wenhao Yu](https://wyu97.github.io/), [Yuwei Zhang](https://zhang-yu-wei.github.io/), [Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/), and [Dong Yu](https://sites.google.com/view/dongyu888/)
 
 We introduce LongMemEval, a comprehensive, challenging, and scalable benchmark for testing the long-term memory of chat assistants. 
